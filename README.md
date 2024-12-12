@@ -1,4 +1,4 @@
-# ✨cafe-men✨
+# ✨cafe-menu✨
 A Python-based interactive menu and ordering system for cafés or restaurants.  
 
 ## Features  
